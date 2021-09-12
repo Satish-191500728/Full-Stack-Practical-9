@@ -152,24 +152,6 @@ html {
     overflow: hidden;
 }
 
-#p1 {
-    background-image: url(../img/practical8/p1.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-#p2 {
-    background-image: url(../img/practical8/p2.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-#p3 {
-    background-image: url(../img/practical8/p3.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
 #grid-container {
     width: 100%;
     margin: 15px auto;
@@ -364,21 +346,6 @@ h1 {
         font-family: Arial, Helvetica, sans-serif;
         color: black;
         overflow: hidden;
-    }
-    #p1 {
-        background-image: url(../img/practical8/p1.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-    #p2 {
-        background-image: url(../img/practical8/p2.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-    #p3 {
-        background-image: url(../img/practical8/p3.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
     }
     #grid-container {
         width: 100%;
@@ -778,6 +745,5 @@ h1 {
         justify-content: center;
         align-items: center;
         font-size: 30px;
-        /* margin-right: 3%; */
     }
 }
